@@ -1,0 +1,3 @@
+https://readcomicsonline.ru/filterList?page=42&cat=&alpha=&sortBy=name&asc=true&author=&tag=
+
+https://readcomicsonline.ru/filterList?page=1&cat=&alpha=&sortBy=last_release&asc=true&author=&tag=
